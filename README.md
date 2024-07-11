@@ -1,4 +1,4 @@
-# Flavors-Sales-Project-
+# Flavors Sales Project
 This project is done using Python.
 
 # Description
