@@ -1,0 +1,52 @@
+Cherry
+45
+Coffee
+89
+Lime
+23
+Orange
+66
+Blueberry
+78
+Rainbow
+102
+Apple
+123
+Raspberry
+84
+Banana
+111
+Pina Colada
+145
+Peanut Butter
+178
+Butter Pecan
+98
+Lemon
+74
+Chocolate
+134
+Strawberry
+156
+Pineapple
+89
+Coconut
+69
+Cheesecake
+57
+Caramel
+177
+Vanilla
+39
+Marshmallow
+93
+Butterscotch
+77
+Pumpkin
+156
+Mint
+157
+Oreo
+156
+Hot Fudge
+165
